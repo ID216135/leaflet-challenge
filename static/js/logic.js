@@ -66,4 +66,3 @@ d3.json(queryUrl).then(function (data) {
     
 
   }
-  
